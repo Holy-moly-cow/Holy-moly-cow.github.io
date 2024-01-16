@@ -9,6 +9,6 @@ My name is Jiwon Park. I have the following qualities:
 - GIST(Gwangju Institute of Science and Technology) EECS(Department of Electrical Engineering and Computer Sciences) 20
 - GIST AI graduate Ms phd integrated 24
 
-### My story
+### My achievement
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+"귀납 편향 제공을 위한 색채 어텐션 학습" - 박지원, 이호성, 박재현 KSC2023 - 우수논문상

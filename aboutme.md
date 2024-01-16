@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Until I can make my own Jarvis
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jiwon Park. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- GIST(Gwangju Institute of Science and Technology) EECS(Department of Electrical Engineering and Computer Sciences) 20
+- GIST AI graduate Ms phd integrated 24
 
 ### My story
 

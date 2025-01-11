@@ -21,6 +21,7 @@ I have the following qualities:
 "Inductive bias provision for color attention learning" - Jiwon Park (Graduation Thesis)
 "Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus" - Seungpil Lee, Woochang Sim, Donghyeon Shin, Wongyu Seo, Jiwon Park, Seokki Lee, Sanha Hwang, Sejin Kim, and Sundong Kim ACM Transactions on Intelligent Systems and Technology, 2025
 
+
 ## Favorite Paper
 - Bober-Irizar, Mikel, and Soumya Banerjee. "Neural networks for abstraction and reasoning: Towards broad generalization in machines." arXiv preprint arXiv:2402.03507 (2024).
 - Bonnet, Clément, and Matthew V. Macfarlane. "Searching Latent Program Spaces." arXiv preprint arXiv:2411.08706 (2024).

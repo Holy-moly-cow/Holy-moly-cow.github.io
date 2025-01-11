@@ -17,9 +17,9 @@ I have the following qualities:
   
 ## My achievement
 
-"귀납 편향 제공을 위한 색채 어텐션 학습" - Jiwon Park, Hosung Lee, Jaehyun Park KSC2023 Thesis award (Domestic conference)
-"Inductive bias provision for color attention learning" - Jiwon Park (Graduation Thesis)
-"Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus" - Seungpil Lee, Woochang Sim, Donghyeon Shin, Wongyu Seo, Jiwon Park, Seokki Lee, Sanha Hwang, Sejin Kim, and Sundong Kim ACM Transactions on Intelligent Systems and Technology, 2025
+- "귀납 편향 제공을 위한 색채 어텐션 학습" - Jiwon Park, Hosung Lee, Jaehyun Park KSC2023 Thesis award (Domestic conference)
+- "Inductive bias provision for color attention learning" - Jiwon Park (Graduation Thesis)
+- "Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus" - Seungpil Lee, Woochang Sim, Donghyeon Shin, Wongyu Seo, Jiwon Park, Seokki Lee, Sanha Hwang, Sejin Kim, and Sundong Kim ACM Transactions on Intelligent Systems and Technology, 2025
 
 
 ## Favorite Paper

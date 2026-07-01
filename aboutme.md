@@ -31,18 +31,7 @@ Jumyung Park, **Jiwon Park**, Jinseo Shim, Sejin Kim, Paulina Vennemann, Sundong
  
 [OpenReview](https://openreview.net/forum?id=N99odDSTM7) · [Poster (PNG)](/assets/posters/PLAE_NeurIPSW25_poster.png)
  
-<details>
-<summary>BibTeX</summary>
-```bibtex
-@inproceedings{Lattice_NeurIPSW2025,
-  title = {{Composed Program Induction with Latent Program Lattice}},
-  author = {Park, Jumyung and Park, Jiwon and Shim, Jinseo and Kim, Sejin and Vennemann, Paulina and Kim, Sundong},
-  year = {2025},
-  journal = {Working Paper},
-  booktitle = {NeurIPS-25 Workshop on Symmetry and Geometry in Neural Representations},
-}
-```
-</details>
+
 ---
  
 **Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus**

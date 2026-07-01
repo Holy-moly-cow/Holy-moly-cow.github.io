@@ -9,7 +9,10 @@ subtitle: Until I can make my own Jarvis
 - [CV (PDF)](/assets/cv/Jiwon_Park_CV.pdf)
 - [LinkedIn](https://linkedin.com/in/park-jiwon-a4211928b)
 - [GitHub](https://github.com/Holy-moly-cow)
+
+
 ## Introduce me
+
 Hi. My name is Jiwon Park.
  
 I've always been fascinated by how differently humans and AI approach problem-solving. While today's large language models keep getting bigger and more powerful, I'm skeptical that simply scaling up model size will lead us to AGI. What really intrigues me is how humans can solve complex problems with just a handful of examples and their prior knowledge – something that even advanced AI(LLM) still struggles with. Working under Prof. Sundong Kim's guidance, I'm exploring this gap by studying how the human brain learns and applying these insights to AI development. I'm particularly interested in the ARC Challenge community's innovative approaches to few-shot learning. My research aims to map human cognitive processes into latent spaces, potentially revolutionizing how AI systems learn. It's exciting to be at the crossroads of cognitive science and AI, working towards making machines learn more like humans do.
@@ -19,6 +22,7 @@ I have the following qualities:
 - GIST(Gwangju Institute of Science and Technology) EECS(Department of Electrical Engineering and Computer Sciences) 20
 - Best BA thesis award
 - GIST AI graduate Ms & Ph.D. integrated 24 under prof.Sundong Kim.
+
 ## Publications
  
 **Composed Program Induction with Latent Program Lattice**
